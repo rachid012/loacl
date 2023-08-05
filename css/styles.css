@@ -987,7 +987,7 @@ p.em{
 /*********************/
 /*     contact Us 2  */
 /*********************/
-.container{
+.containerr{
 	width: 100%;
 	min-height: 100vh;
 	display: flex;
@@ -995,7 +995,7 @@ p.em{
 	align-items: center;
 	padding: 30px 8%;
 }
-.container .row{
+.containerr .row{
 	display: flex;
 	justify-content: space-between;
 	width: 100%;
@@ -1199,7 +1199,7 @@ textarea::-webkit-scrollbar-thumb{
 	}
 }
 @media(max-width: 900px){
-	.container .row{
+	.containerr .row{
 		flex-wrap: wrap;
 	}
 	.row section.left, .row section.right{
